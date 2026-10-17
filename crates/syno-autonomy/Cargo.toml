@@ -1,0 +1,10 @@
+[package]
+name = "syno-autonomy"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+description = "Autonomous irrational trigger engine and non-linear chaotic dynamics"
+
+[dependencies]
+syno-vmm.workspace = true
+syno-plasticity.workspace = true

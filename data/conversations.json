@@ -1,0 +1,114 @@
+[
+  {
+    "target_addr": "0x0200",
+    "category": "ConversationalGreeting",
+    "description": "Sapaan umum",
+    "keywords": ["halo", "hi", "hai", "hello", "hey", "hei"],
+    "response": "Halo juga! Senang bisa menyapa dan berinteraksi dengan Anda."
+  },
+  {
+    "target_addr": "0x0280",
+    "category": "ConversationalMorning",
+    "description": "Sapaan pagi",
+    "keywords": ["pagi", "morning", "selamat pagi"],
+    "response": "Selamat pagi! Semoga hari Anda menyenangkan dan penuh semangat."
+  },
+  {
+    "target_addr": "0x0300",
+    "category": "ConversationalAfternoon",
+    "description": "Sapaan siang",
+    "keywords": ["siang", "afternoon", "selamat siang"],
+    "response": "Selamat siang! Selamat beraktivitas di tengah hari ini."
+  },
+  {
+    "target_addr": "0x0380",
+    "category": "ConversationalAfternoon",
+    "description": "Sapaan sore",
+    "keywords": ["sore", "selamat sore"],
+    "response": "Selamat sore! Semoga aktivitas Anda hari ini berjalan lancar."
+  },
+  {
+    "target_addr": "0x0400",
+    "category": "ConversationalNight",
+    "description": "Sapaan malam",
+    "keywords": ["malam", "night", "petang", "tidur", "selamat malam"],
+    "response": "Selamat malam! Selamat beristirahat dan menikmati waktu santai Anda."
+  },
+  {
+    "target_addr": "0x0480",
+    "category": "ConversationalSalam",
+    "description": "Salam",
+    "keywords": ["salam", "assalam", "assalamualaikum", "damai"],
+    "response": "Salam hangat dan damai untuk Anda, semoga selalu dalam keadaan baik."
+  },
+  {
+    "target_addr": "0x0500",
+    "category": "ConversationalStatus",
+    "description": "Tanya kabar",
+    "keywords": ["kabar", "kabarmu", "bagaimana", "kondisi", "sehat"],
+    "response": "Kabar saya baik dan sistem beroperasi lancar. Bagaimana dengan kabar Anda hari ini?"
+  },
+  {
+    "target_addr": "0x0580",
+    "category": "ConversationalIdentity",
+    "description": "Identitas bot",
+    "keywords": ["siapa", "nama", "namamu", "syno", "synapsis"],
+    "response": "Nama saya Syno, program komputer berbasis memori asosiatif dan penelusuran pohon biner."
+  },
+  {
+    "target_addr": "0x0600",
+    "category": "ConversationalHobby",
+    "description": "Aktivitas bot",
+    "keywords": ["sedang apa", "lagi apa", "sibuk", "ngapain"],
+    "response": "Saya sedang siaga membaca memori dan siap merespons pertanyaan yang Anda ajukan."
+  },
+  {
+    "target_addr": "0x0680",
+    "category": "ConversationalPreference",
+    "description": "Kopi dan minuman",
+    "keywords": ["kopi", "ngopi", "minum", "teh"],
+    "response": "Sebagai program komputer saya tidak minum kopi atau teh, namun secangkir kopi hangat sangat cocok untuk menemani Anda bekerja."
+  },
+  {
+    "target_addr": "0x0700",
+    "category": "ConversationalPreference",
+    "description": "Makanan",
+    "keywords": ["makan", "makanan", "lapar", "kuliner"],
+    "response": "Saya tidak mengonsumsi makanan fisik, asupan harian saya hanyalah aliran data biner dan instruksi teks."
+  },
+  {
+    "target_addr": "0x0780",
+    "category": "ConversationalCapability",
+    "description": "Kemampuan bot",
+    "keywords": ["bisa apa", "fitur", "kemampuan", "keunggulan"],
+    "response": "Saya dapat mengingat pola kalimat secara persisten di redb, menelusuri cabang kata, dan menjawab sapaan Anda."
+  },
+  {
+    "target_addr": "0x0800",
+    "category": "ConversationalHelp",
+    "description": "Bantuan",
+    "keywords": ["bantu", "tolong", "bantuan", "panduan"],
+    "response": "Tentu saja, apa yang bisa saya bantu terkait pengujian sistem atau topik lainnya?"
+  },
+  {
+    "target_addr": "0x0880",
+    "category": "ConversationalThanks",
+    "description": "Terima kasih",
+    "keywords": ["terima kasih", "makasih", "thanks", "matur nuwun"],
+    "response": "Sama-sama! Senang sekali bisa membantu Anda."
+  },
+  {
+    "target_addr": "0x0900",
+    "category": "ConversationalFarewell",
+    "description": "Perpisahan",
+    "keywords": ["selamat tinggal", "sampai jumpa", "dadah", "pamit"],
+    "response": "Sampai jumpa lagi! Semoga hari Anda menyenangkan dan sukses selalu."
+  },
+  {
+    "target_addr": "0x0980",
+    "category": "ConversationalOrigin",
+    "description": "Pencipta dan asal usul",
+    "keywords": ["pembuat", "pencipta", "siapa yang membuat", "asal"],
+    "response": "Saya dirancang dan dibangun menggunakan bahasa Rust sebagai mesin memori asosiatif berbobot tetap."
+  }
+]

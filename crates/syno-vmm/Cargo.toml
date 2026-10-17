@@ -1,0 +1,11 @@
+[package]
+name = "syno-vmm"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+description = "Virtual Memory Manager, binary paging, and ACID redb persistence"
+
+[dependencies]
+redb.workspace = true
+serde.workspace = true
+serde_json.workspace = true

@@ -1,0 +1,28 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/syno-vmm",
+    "crates/syno-compiler",
+    "crates/syno-plasticity",
+    "crates/syno-autonomy",
+    "crates/syno-verbal",
+    "crates/syno-cli",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Ratu <user@workspace.local>"]
+
+[workspace.dependencies]
+redb = "4.4.0"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.154"
+syno-vmm = { path = "crates/syno-vmm" }
+syno-compiler = { path = "crates/syno-compiler" }
+syno-plasticity = { path = "crates/syno-plasticity" }
+syno-autonomy = { path = "crates/syno-autonomy" }
+syno-verbal = { path = "crates/syno-verbal" }
+
+[workspace.lints.clippy]
+all = "warn"

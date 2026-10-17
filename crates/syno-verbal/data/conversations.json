@@ -1,0 +1,77 @@
+[
+  {
+    "target_addr": "0x0200",
+    "category": "ConversationalGreeting",
+    "description": "Sapaan Percakapan (Halo/Hi)",
+    "keywords": [
+      "halo",
+      "hi",
+      "hai",
+      "hello",
+      "hey",
+      "hei"
+    ],
+    "response": "Halo juga! Jaringan sinapsis aktif merespons sapaan Anda."
+  },
+  {
+    "target_addr": "0x0280",
+    "category": "ConversationalMorning",
+    "description": "Sapaan Pagi (Morning/Good)",
+    "keywords": [
+      "pagi",
+      "morning",
+      "good"
+    ],
+    "response": "Pagi yang cerah, mari kita bereksperimen dengan komputasi plastis."
+  },
+  {
+    "target_addr": "0x0300",
+    "category": "ConversationalSalam",
+    "description": "Salam & Keakraban",
+    "keywords": [
+      "salam",
+      "assalam",
+      "peace",
+      "berkah",
+      "rahmat"
+    ],
+    "response": "Salam hangat! Node memori neuroplastis terhubung prima."
+  },
+  {
+    "target_addr": "0x0380",
+    "category": "ConversationalStatus",
+    "description": "Kabar & Status Sistem",
+    "keywords": [
+      "kabar",
+      "status",
+      "bagaimana",
+      "kondisi",
+      "sehat",
+      "prima"
+    ],
+    "response": "Kabar baik, sistem biner dan alokasi memori berjalan stabil."
+  },
+  {
+    "target_addr": "0x0400",
+    "category": "ConversationalNight",
+    "description": "Sapaan Malam",
+    "keywords": [
+      "malam",
+      "night",
+      "petang",
+      "tidur"
+    ],
+    "response": "Selamat malam! Proses konsolidasi memori dan sinapsis siap mendampingi."
+  },
+  {
+    "target_addr": "0x0480",
+    "category": "ConversationalAfternoon",
+    "description": "Sapaan Siang / Sore",
+    "keywords": [
+      "siang",
+      "sore",
+      "afternoon"
+    ],
+    "response": "Selamat siang! Seluruh jalur komputasi virtual beroperasi optimal."
+  }
+]

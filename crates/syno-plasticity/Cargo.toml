@@ -1,0 +1,12 @@
+[package]
+name = "syno-plasticity"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+description = "Synaptic plasticity network, memory tiers, and hierarchical trie"
+
+[dependencies]
+syno-vmm.workspace = true
+syno-compiler.workspace = true
+serde.workspace = true
+serde_json.workspace = true

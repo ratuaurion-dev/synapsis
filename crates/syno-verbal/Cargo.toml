@@ -1,0 +1,14 @@
+[package]
+name = "syno-verbal"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+description = "Verbal cognition engine, tree reasoning, and dataset ingestion loaders"
+
+[dependencies]
+syno-vmm.workspace = true
+syno-compiler.workspace = true
+syno-plasticity.workspace = true
+syno-autonomy.workspace = true
+serde.workspace = true
+serde_json.workspace = true

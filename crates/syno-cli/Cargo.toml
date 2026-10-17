@@ -1,0 +1,17 @@
+[package]
+name = "syno-cli"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+description = "CLI interface for Syno neuroplastic virtual machine"
+
+[[bin]]
+name = "syno"
+path = "src/main.rs"
+
+[dependencies]
+syno-vmm.workspace = true
+syno-compiler.workspace = true
+syno-plasticity.workspace = true
+syno-autonomy.workspace = true
+syno-verbal.workspace = true

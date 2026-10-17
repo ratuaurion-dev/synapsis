@@ -1,0 +1,9 @@
+[package]
+name = "syno-compiler"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+description = "Bitcode compiler, opcode execution, and binary memory decoding"
+
+[dependencies]
+syno-vmm.workspace = true
